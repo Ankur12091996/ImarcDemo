@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ImarcDemo/static/css/main.024820e6.css",
+    "main.js": "/ImarcDemo/static/js/main.6f4bff28.js",
+    "static/js/453.85ef8ae8.chunk.js": "/ImarcDemo/static/js/453.85ef8ae8.chunk.js",
+    "static/media/logo.svg": "/ImarcDemo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ImarcDemo/index.html",
+    "main.024820e6.css.map": "/ImarcDemo/static/css/main.024820e6.css.map",
+    "main.6f4bff28.js.map": "/ImarcDemo/static/js/main.6f4bff28.js.map",
+    "453.85ef8ae8.chunk.js.map": "/ImarcDemo/static/js/453.85ef8ae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.024820e6.css",
+    "static/js/main.6f4bff28.js"
+  ]
+}
